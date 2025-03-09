@@ -57,10 +57,4 @@
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-6DB33F?style=flat)  
 
 ---
-
-## 🤝 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslam-seadawi/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/eslams3dawi)  
-📩 **Email:** eslamseadawy717@gmail.com  
-
 ---
