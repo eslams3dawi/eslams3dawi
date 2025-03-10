@@ -36,7 +36,6 @@
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
 - ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
-- ![Animation Programming](https://img.shields.io/badge/Animation_Programming-FF4500?style=flat-square&logo=adobe-after-effects&logoColor=white)
 
 #### Full Stack Development
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
