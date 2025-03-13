@@ -76,6 +76,18 @@
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
+  &emsp;
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> 
+    <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.w3schools.com/sql/" target="_blank"> 
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-%2307405e.svg?style=plastic&logo=postgresql&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"> 
+    <img alt="Assembly" src="https://img.shields.io/badge/Assembly-%23A8B9CC.svg?style=plastic&logo=assembly&logoColor=black">
+  </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
