@@ -170,23 +170,18 @@
     <a href="https://github.com/eslams3dawi/Hosptial-Management-System">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=eslams3dawi&repo=Hosptial-Management-System&theme=tokyonight" alt="Hospital Management System" />
     </a>
-
     <a href="https://github.com/eslams3dawi/CSharp-Data-Structures-From-Scratch">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=eslams3dawi&repo=CSharp-Data-Structures-From-Scratch&theme=tokyonight" alt="C# Data Structures From Scratch" />
     </a>
-
     <a href="https://github.com/eslams3dawi/LeetCode_Problems">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=eslams3dawi&repo=LeetCode_Problems&theme=tokyonight" alt="LeetCode Problems" />
     </a>
-
     <a href="https://github.com/eslams3dawi/.NET-Training-Practices">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=eslams3dawi&repo=.NET-Training-Practices&theme=tokyonight" alt=".NET Training Practices" />
     </a>
-
     <a href="https://github.com/eslams3dawi/Data-Structures-From-Scratch-Using-C-Plus-Plus">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=eslams3dawi&repo=Data-Structures-From-Scratch-Using-C-Plus-Plus&theme=tokyonight" alt="Data Structures in C++" />
     </a>
-
     <a href="https://github.com/eslams3dawi/SQL-Tasks">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=eslams3dawi&repo=SQL-Tasks&theme=tokyonight" alt="SQL Tasks" />
     </a>
