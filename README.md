@@ -217,8 +217,8 @@
 
 </br></br>
 	
-## 🐍 A Snake Eating my Contributions Graph
+## 🐍 Snake Ate My Contributions Graph
 	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align="center">
+  <img src="https://github.com/eslams3dawi/eslams3dawi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
