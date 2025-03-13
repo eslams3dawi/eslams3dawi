@@ -144,7 +144,7 @@
   &emsp;
   <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=plastic&logo=eclipse-ide&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Code::Blocks" src="https://img.shields.io/badge/Code::Blocks-1E90FF.svg?style=plastic"></a>
+  <a href="#"><img alt="Code::Blocks" src="https://img.shields.io/badge/IDE-1E90FF.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
