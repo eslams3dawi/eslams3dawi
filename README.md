@@ -31,7 +31,6 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [My CV](https://drive.google.com/drive/folders/1TKN9ETE1KuUleixPsAzRvZBKGVM2eYtU?usp=drive_link).
 - :boom: You can visit [My Linkedin](https://www.linkedin.com/in/eslam-seadawi/).
 <br>
 
