@@ -28,7 +28,7 @@
 
 - :school: I am a `Senior` at Computer Science at [October 6 University](https://o6u.edu.eg/default.aspx?id=70).
 - :technologist: I'm learning new Software Engineering Concepts such as (Operating Systems, Linux, System Design, Networks Basics, ..) & Web Technologies using (Angular & .NET)
-- :problem_Solving: Passionate about competitive programming, actively solve problems at `Codeforces`, `Leetcode`.
+- :problemSolving: Passionate about competitive programming, actively solve problems at `Codeforces`, `Leetcode`.
 - :nerd_face: Always `learning new things`.
 - :boom: You can visit [My Linkedin](https://www.linkedin.com/in/eslam-seadawi/).
 <br>
