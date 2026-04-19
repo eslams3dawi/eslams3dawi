@@ -7,10 +7,10 @@
 
 ## About Me
 
-Senior Computer Science Student  
-.NET Backend Developer with a strong focus on DevOps and Cloud  
-Interested in building scalable systems and automated infrastructure  
-Currently working on CI/CD pipelines, containerization, and monitoring systems  
+- Senior Computer Science Student  
+- .NET Backend Developer with a strong focus on DevOps and Cloud  
+- Interested in building scalable systems and automated infrastructure
+- Currently working on CI/CD pipelines, containerization, and monitoring systems  
 
 ---
 
