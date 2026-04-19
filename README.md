@@ -7,10 +7,6 @@
 
 ## About Me
 
-<picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
-</picture>
-
 Senior Computer Science Student  
 .NET Backend Developer with a strong focus on DevOps and Cloud  
 Interested in building scalable systems and automated infrastructure  
